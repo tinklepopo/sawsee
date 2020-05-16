@@ -1,0 +1,14 @@
+memo
+20200514 remote_name: origin
+20200514 remote_URL: https://github.com/tinklepopo/sawsee.git
+
+20200515 create database "sawsee" table "faces"
+20200516 create files by Express
+
+
+
+
+||||||database||||||
+DATABASE:sawsee
+TABLE:faces
+COLUMN:
