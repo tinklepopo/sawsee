@@ -4,9 +4,12 @@ memo
 
 20200515 create database "sawsee" table "faces"
 20200516 create files by Express
+20200518 install MySQL Workbench and connect "sawsee"
 
 
 
+||||||ToDo||||||
+conceal password
 
 ||||||database||||||
 DATABASE:sawsee
